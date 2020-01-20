@@ -1,0 +1,4 @@
+Output:
+1. z is not less than a
+2.Boston
+  New York
